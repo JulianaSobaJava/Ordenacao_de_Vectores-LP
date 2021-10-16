@@ -4,6 +4,7 @@ Faça um algoritmo para ler 10 números e armazenar em um vetor. Após isto, o
 algoritmo deve ordenar os números no vetor em ordem crescente. No final, deve
 ser lido mais um número qualquer e inserir esse novo número na posição correta,
 ou seja, mantendo a ordem crescente do vetor. Escrever o vetor ordenado.
+Upgraded by:Professor José Gonçalves;
 
 
 Algoritmo "Ordenar"
